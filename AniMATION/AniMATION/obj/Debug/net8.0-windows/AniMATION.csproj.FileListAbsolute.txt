@@ -1,0 +1,17 @@
+C:\c#\AniMATION\AniMATION\bin\Debug\net8.0-windows\AniMATION.exe
+C:\c#\AniMATION\AniMATION\bin\Debug\net8.0-windows\AniMATION.deps.json
+C:\c#\AniMATION\AniMATION\bin\Debug\net8.0-windows\AniMATION.runtimeconfig.json
+C:\c#\AniMATION\AniMATION\bin\Debug\net8.0-windows\AniMATION.dll
+C:\c#\AniMATION\AniMATION\bin\Debug\net8.0-windows\AniMATION.pdb
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.Form1.resources
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.Properties.Resources.resources
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.csproj.GenerateResource.cache
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.AssemblyInfoInputs.cache
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.AssemblyInfo.cs
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.csproj.CoreCompileInputs.cache
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.dll
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\refint\AniMATION.dll
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.pdb
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\AniMATION.genruntimeconfig.cache
+C:\c#\AniMATION\AniMATION\obj\Debug\net8.0-windows\ref\AniMATION.dll
