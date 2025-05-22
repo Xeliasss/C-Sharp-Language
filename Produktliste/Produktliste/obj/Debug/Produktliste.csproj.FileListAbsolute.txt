@@ -1,0 +1,10 @@
+C:\c#\Produktliste\Produktliste\bin\Debug\Produktliste.exe.config
+C:\c#\Produktliste\Produktliste\bin\Debug\Produktliste.exe
+C:\c#\Produktliste\Produktliste\bin\Debug\Produktliste.pdb
+C:\c#\Produktliste\Produktliste\obj\Debug\Produktliste.csproj.AssemblyReference.cache
+C:\c#\Produktliste\Produktliste\obj\Debug\Produktliste.Form1.resources
+C:\c#\Produktliste\Produktliste\obj\Debug\Produktliste.Properties.Resources.resources
+C:\c#\Produktliste\Produktliste\obj\Debug\Produktliste.csproj.GenerateResource.cache
+C:\c#\Produktliste\Produktliste\obj\Debug\Produktliste.csproj.CoreCompileInputs.cache
+C:\c#\Produktliste\Produktliste\obj\Debug\Produktliste.exe
+C:\c#\Produktliste\Produktliste\obj\Debug\Produktliste.pdb
